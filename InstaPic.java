@@ -1,5 +1,10 @@
 import java.awt.Color;
 
+/**
+ *  This class provides methods for rescale images and convert the images into grayscale.
+ *  Usage in bulldog memory game: rescale images to fit on the game board
+
+ */
 public class InstaPic extends Picture {
     public InstaPic(String fileName) {
         super(fileName);
