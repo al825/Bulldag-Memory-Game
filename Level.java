@@ -3,6 +3,9 @@ import java.awt.Font;
 
 /**
  *  This class provides actions of the game
+ *  	Level 1: 4*4, total attamps: 20
+ *  	Level 2: 6*6, total attamps: 50
+ *  	Level 3: 8*8, total attamps: 100
 
  */
 
