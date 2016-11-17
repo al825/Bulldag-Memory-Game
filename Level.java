@@ -35,10 +35,10 @@ public class Level{
     
   }
   
-
+  // initialize the game: show all images, after 1 second, turn all images to its back
   public void start(){
     set.layout(true);
-    StdDraw.show(n*2000);
+    StdDraw.show(n*1000);
     set.layout(false);
     StdDraw.show();
   }
