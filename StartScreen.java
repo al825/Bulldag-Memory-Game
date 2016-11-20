@@ -3,8 +3,9 @@ import java.awt.Font;
 
 /**
  *  This is the start screen class
- *  	
- *  	
+ *  	Annimation on the start screen: bulldogs moving forward and backward (required class: Dan)
+ *  	Buttons: start -> starts the game
+ *               help -> shows the introduction page
  *  	
 
  */
