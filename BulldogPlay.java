@@ -2,8 +2,7 @@ import java.awt.Color;
 import java.awt.Font;
 
 /**
- *  This class provides a BulldogPlay class which is the entire game 
-
+ *  This is the entire process of the game
  */
 
 public class BulldogPlay{
