@@ -1,0 +1,19 @@
+Initially the screen shows welcome message to the game with a bottom to click on to enter the game. Then comes the first round of level 1 of the game. All the images will show on the screen for a few seconds and then all will turn to their backs. Every pair of 2 clicks would result in the display of the face of the image and both would disappear if they are a match or turn to their backs again otherwise. The number of remaining attempts would go down by 1 after every pair of 2 clicks. The players would go to the next level only if he/she would find all matches before using up all the attempts. Otherwise, a line of text will pop up indicating that the player failed the current round at the current level and will be directed to the next round of the same level. If the player is able to find all matches at a level within 3 rounds of try, then he/she will be directed automatically to the next level and repeat the entire process. Otherwise, the player lost the game and and the screen will show related information. 
+
+
+Make a game where you have 8, 16, 32 or 64 cards which are to be matched in pairs. The user clicks which two cards to turn over to see if they are a pair. Show the user the cards they turned over, if they match remove them from the game. If they do not match, flip them back over. A time limit is also imposed for each round at each difficulty level characterized by the number of cards
+
+
+
+
+There will be a total of 3 levels for the game in which there will be 16, 36, and 64 cards to be matched in pairs.
+
+You have a total of 3 rounds in each level to find all matching pairs within the maximum number of attempts allowed.
+
+Regardless of whether you find a matched pairs, the number of attempts remained for the current round go down by 1 after every pair of 2 clicks 
+
+You will be directed to the next level if you find all matching pairs within the maximum number of attempts.
+
+You win the game if you pass all 3 levels!
+
+Enjoy and Good Luck!
